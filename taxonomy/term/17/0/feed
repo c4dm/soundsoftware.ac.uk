@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://soundsoftware.ac.uk"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Sound Software .ac.uk - soundsoftware2012</title>
+ <link>http://soundsoftware.ac.uk/taxonomy/term/17/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>SoundSoftware 2012 Workshop: Event Details</title>
+ <link>http://soundsoftware.ac.uk/soundsoftware2012-details</link>
+ <description>&lt;h2&gt;Event Details&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Location: &lt;a href=&quot;#venue&quot;&gt;Queen Mary University of London (Maths Lecture Theatre)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Date: Monday 18 June 2012&lt;/li&gt;
+&lt;li&gt;Registration deadline: 11 June 2012 (now closed - please send us an email to &lt;a href=&quot;mailto:info@soundsoftware.ac.uk&quot;&gt;info@soundsoftware.ac.uk&lt;/a&gt; in case you wish to attend but haven&#039;t registered&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;News&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;13 Jun 2012: Added information regarding the &lt;a href=&quot;#venue&quot;&gt;workshop venue&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;12 Jun 2012: Registration closed.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;a href=&quot;http://soundsoftware.ac.uk/soundsoftware2012-details&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/11">audio</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/12">music</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/14">reproducibility</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/13">research</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/15">software</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/17">soundsoftware2012</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/18">sustainability</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/9">workshop</category>
+ <pubDate>Wed, 02 May 2012 15:58:22 +0000</pubDate>
+ <dc:creator>luisf</dc:creator>
+ <guid isPermaLink="false">93 at http://soundsoftware.ac.uk</guid>
+</item>
+</channel>
+</rss>

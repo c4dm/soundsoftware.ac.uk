@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://soundsoftware.ac.uk"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Sound Software .ac.uk - Version control</title>
+ <link>http://soundsoftware.ac.uk/taxonomy/term/2/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>What&#039;s the difference between Mercurial and git?</title>
+ <link>http://soundsoftware.ac.uk/whats-the-difference-between-hg-and-git</link>
+ <description>&lt;div class=&quot;image-attach-teaser image-attach-node-122&quot; style=&quot;width: 100px;&quot;&gt;&lt;a href=&quot;/whats-the-difference-between-hg-and-git&quot;&gt;&lt;img src=&quot;http://soundsoftware.ac.uk/sites/soundsoftware.ac.uk/files/images/hgclone.thumbnail.png&quot; alt=&quot;hgclone.png&quot; title=&quot;hgclone.png&quot;  class=&quot;image image-thumbnail &quot; width=&quot;100&quot; height=&quot;52&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;We&#039;re occasionally asked why we chose to use Mercurial in our code hosting site, and what difference there is between Mercurial and git.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://soundsoftware.ac.uk/whats-the-difference-between-hg-and-git&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://soundsoftware.ac.uk/whats-the-difference-between-hg-and-git#comments</comments>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/2">Version control</category>
+ <enclosure url="http://soundsoftware.ac.uk/image/view/122/preview" length="56949" type="image/png" />
+ <pubDate>Thu, 17 Jan 2013 10:41:37 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">123 at http://soundsoftware.ac.uk</guid>
+</item>
+<item>
+ <title>Tools and Facilities</title>
+ <link>http://soundsoftware.ac.uk/tools</link>
+ <description>&lt;p&gt;&lt;a href=&quot;https://code.soundsoftware.ac.uk&quot; target=&quot;_blank&quot;&gt;&lt;img alt=&quot;code.soundsoftware.ac.uk&quot; src = &quot;/sites/soundsoftware.ac.uk/files/images/codessw.png&quot; style=&quot;float: left; padding: 4px; margin: 0 7px 2px 0; display: inline;&quot; width=&quot;200px&quot; /&gt;&lt;/a&gt;
+&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://code.soundsoftware.ac.uk&quot; target=&quot;_blank&quot;&gt;code.soundsoftware.ac.uk&lt;/a&gt;&lt;/strong&gt; is a code-repository and project management site for software development carried out in the UK academic audio and music research field.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://soundsoftware.ac.uk/tools&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/33">code</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/35">easymercurial</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/37">mercurial</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/34">repository</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/4">Reproducible research</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/36">tdd</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/2">Version control</category>
+ <pubDate>Thu, 18 Oct 2012 09:44:25 +0000</pubDate>
+ <dc:creator>luisf</dc:creator>
+ <guid isPermaLink="false">118 at http://soundsoftware.ac.uk</guid>
+</item>
+<item>
+ <title>EasyMercurial 1.2 released!</title>
+ <link>http://soundsoftware.ac.uk/easyhg-1.2-released</link>
+ <description>&lt;div class=&quot;image-attach-teaser image-attach-node-81&quot; style=&quot;width: 100px;&quot;&gt;&lt;a href=&quot;/easyhg-1.2-released&quot;&gt;&lt;img src=&quot;http://soundsoftware.ac.uk/sites/soundsoftware.ac.uk/files/images/easyhg-history-win7-1.2-25.thumbnail.png&quot; alt=&quot;EasyMercurial 1.2 on Windows 7&quot; title=&quot;EasyMercurial 1.2 on Windows 7&quot;  class=&quot;image image-thumbnail &quot; width=&quot;100&quot; height=&quot;96&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;We&#039;re very happy to announce that EasyMercurial 1.2 is now available.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://soundsoftware.ac.uk/easyhg-1.2-released&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://soundsoftware.ac.uk/easyhg-1.2-released#comments</comments>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/2">Version control</category>
+ <enclosure url="http://soundsoftware.ac.uk/image/view/81/preview" length="15566" type="image/png" />
+ <pubDate>Thu, 15 Mar 2012 17:37:09 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">83 at http://soundsoftware.ac.uk</guid>
+</item>
+<item>
+ <title>Get started with your software and our project site</title>
+ <link>http://soundsoftware.ac.uk/getting-started-soundsoftware-code-site</link>
+ <description>&lt;div class=&quot;image-attach-teaser image-attach-node-63&quot; style=&quot;width: 100px;&quot;&gt;&lt;a href=&quot;/getting-started-soundsoftware-code-site&quot;&gt;&lt;img src=&quot;http://soundsoftware.ac.uk/sites/soundsoftware.ac.uk/files/images/2-newproject.thumbnail.png&quot; alt=&quot;New project link on code.soundsoftware.ac.uk&quot; title=&quot;New project link on code.soundsoftware.ac.uk&quot;  class=&quot;image image-thumbnail &quot; width=&quot;100&quot; height=&quot;72&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;The SoundSoftware project provides a software project hosting site for use by UK audio and music researchers. Here&#039;s a simple 5-step guide to getting your software on the site and starting to manage it in a more sustainable way.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://soundsoftware.ac.uk/getting-started-soundsoftware-code-site&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/7">Guides</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/1">Project hosting</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/2">Version control</category>
+ <enclosure url="http://soundsoftware.ac.uk/image/view/63/preview" length="20125" type="image/png" />
+ <pubDate>Fri, 16 Dec 2011 09:42:49 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">60 at http://soundsoftware.ac.uk</guid>
+</item>
+<item>
+ <title>Version control: What system should I use?</title>
+ <link>http://soundsoftware.ac.uk/version-control-what-system-to-use</link>
+ <description>&lt;p&gt;A version control system remembers the &lt;i&gt;history&lt;/i&gt; of changes to your files, so you can review what you have changed and when; and it helps you to &lt;i&gt;share&lt;/i&gt; your changes and work with colleagues more easily. Here we talk about which version control system or service to use.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://soundsoftware.ac.uk/version-control-what-system-to-use&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://soundsoftware.ac.uk/version-control-what-system-to-use#comments</comments>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/7">Guides</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/1">Project hosting</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/2">Version control</category>
+ <pubDate>Fri, 09 Dec 2011 21:14:24 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">37 at http://soundsoftware.ac.uk</guid>
+</item>
+<item>
+ <title>EasyMercurial 1.1 released!</title>
+ <link>http://soundsoftware.ac.uk/node/48</link>
+ <description>&lt;div class=&quot;image-attach-teaser image-attach-node-57&quot; style=&quot;width: 93px;&quot;&gt;&lt;a href=&quot;/node/48&quot;&gt;&lt;img src=&quot;http://soundsoftware.ac.uk/sites/soundsoftware.ac.uk/files/images/Screenshot - 081211 - 16:22:51_0.png&quot; alt=&quot;EasyMercurial new merge node&quot; title=&quot;EasyMercurial new merge node&quot;  class=&quot;image image-thumbnail &quot; width=&quot;93&quot; height=&quot;93&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;A new updated version of our simple version control interface is now available.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://soundsoftware.ac.uk/node/48&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://soundsoftware.ac.uk/node/48#comments</comments>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/2">Version control</category>
+ <enclosure url="http://soundsoftware.ac.uk/image/view/57/preview" length="2772" type="image/png" />
+ <pubDate>Fri, 25 Nov 2011 10:53:30 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">48 at http://soundsoftware.ac.uk</guid>
+</item>
+<item>
+ <title>Two introductory EasyMercurial videos</title>
+ <link>http://soundsoftware.ac.uk/node/43</link>
+ <description>&lt;p&gt;We&#039;ve just made a couple of very short, simple videos showing the basics of using EasyMercurial.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://soundsoftware.ac.uk/node/43&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://soundsoftware.ac.uk/node/43#comments</comments>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/5">Media resources</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/2">Version control</category>
+ <pubDate>Tue, 04 Oct 2011 09:19:29 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">43 at http://soundsoftware.ac.uk</guid>
+</item>
+<item>
+ <title>EasyMercurial: a version control interface from SoundSoftware.ac.uk</title>
+ <link>http://soundsoftware.ac.uk/easymercurial</link>
+ <description>&lt;p&gt;We&#039;re delighted to be able to announce the release of EasyMercurial, a simple program for managing version control for files and projects.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://soundsoftware.ac.uk/easymercurial&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://soundsoftware.ac.uk/easymercurial#comments</comments>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/2">Version control</category>
+ <pubDate>Fri, 26 Aug 2011 11:38:33 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">42 at http://soundsoftware.ac.uk</guid>
+</item>
+<item>
+ <title>Why use version control?</title>
+ <link>http://soundsoftware.ac.uk/why-version-control</link>
+ <description>&lt;p&gt;The first in our series of posts about the relationship between software development and audio and music research.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://soundsoftware.ac.uk/why-version-control&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://soundsoftware.ac.uk/why-version-control#comments</comments>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/7">Guides</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/2">Version control</category>
+ <pubDate>Tue, 01 Mar 2011 14:54:39 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">34 at http://soundsoftware.ac.uk</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://soundsoftware.ac.uk"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Sound Software .ac.uk - sustainable software</title>
+ <link>http://soundsoftware.ac.uk/taxonomy/term/51/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>What did we talk about at the second SoundSoftware workshop?</title>
+ <link>http://soundsoftware.ac.uk/ssww13-wrap-up</link>
+ <description>&lt;p&gt;The second edition of the SoundSoftware workshop on Software and Data for Audio and Music Researchers took place last Wednesday, 26 June 2013. During this one-day event the invited speakers and the audience had the opportunity to discuss the challenges of working with software and data in audio and music research.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://soundsoftware.ac.uk/ssww13-wrap-up&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://soundsoftware.ac.uk/ssww13-wrap-up#comments</comments>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/14">reproducibility</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/51">sustainable software</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/9">workshop</category>
+ <pubDate>Fri, 28 Jun 2013 13:41:26 +0000</pubDate>
+ <dc:creator>luisf</dc:creator>
+ <guid isPermaLink="false">135 at http://soundsoftware.ac.uk</guid>
+</item>
+</channel>
+</rss>

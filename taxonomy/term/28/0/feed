@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://soundsoftware.ac.uk"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Sound Software .ac.uk - bootcamp</title>
+ <link>http://soundsoftware.ac.uk/taxonomy/term/28/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>From York to Porto, with a quick stop in London</title>
+ <link>http://soundsoftware.ac.uk/york12-wrapup</link>
+ <description>&lt;p&gt;We recently spent a week in York, where we organised a software bootcamp and delivered tutorial at this year&#039;s edition of the International Conference on Digital Audio Effects &lt;a href=&quot;http://dafx12.york.ac.uk&quot; href=&quot;_blank&quot;&gt;DAFx 2012&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://soundsoftware.ac.uk/york12-wrapup&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://soundsoftware.ac.uk/york12-wrapup#comments</comments>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/28">bootcamp</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/27">dafx</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/25">software carpentry</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/24">tutorial</category>
+ <pubDate>Thu, 27 Sep 2012 11:06:51 +0000</pubDate>
+ <dc:creator>luisf</dc:creator>
+ <guid isPermaLink="false">115 at http://soundsoftware.ac.uk</guid>
+</item>
+</channel>
+</rss>

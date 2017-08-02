@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://soundsoftware.ac.uk"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Sound Software .ac.uk - optimisation</title>
+ <link>http://soundsoftware.ac.uk/taxonomy/term/22/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Some things I have learnt about optimising Python</title>
+ <link>http://soundsoftware.ac.uk/node/111</link>
+ <description>&lt;p&gt;Dan Stowell shares some notes on how to get the more processor-intensive parts of your code running quickly in Python, so as to exploit the quick development cycle of Python without having to reimplement working code in a different language.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://soundsoftware.ac.uk/node/111&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://soundsoftware.ac.uk/node/111#comments</comments>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/22">optimisation</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/20">python</category>
+ <pubDate>Tue, 17 Jul 2012 09:55:24 +0000</pubDate>
+ <dc:creator>dan4dm</dc:creator>
+ <guid isPermaLink="false">111 at http://soundsoftware.ac.uk</guid>
+</item>
+</channel>
+</rss>

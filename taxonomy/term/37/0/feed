@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://soundsoftware.ac.uk"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Sound Software .ac.uk - mercurial</title>
+ <link>http://soundsoftware.ac.uk/taxonomy/term/37/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Notes from a Software Bootcamp at Max Planck Institute</title>
+ <link>http://soundsoftware.ac.uk/swc-tuebingen-recap</link>
+ <description>&lt;p&gt;On the 25 and 26th of January we helped to organise another &lt;a title=&quot;Software Carpentry&quot; href=&quot;http://software-carpentry.org/&quot; target=&quot;_blank&quot;&gt;Software Carpentry&lt;/a&gt; workshop. This workshop was held on the &lt;a title=&quot;MPI Tuebingen&quot; href=&quot;http://tuebingen.mpg.de/en/homepage.html&quot; target=&quot;_target&quot;&gt;Tuebingen Campus of the Max Planck Institute&lt;/a&gt;, Germany.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://soundsoftware.ac.uk/swc-tuebingen-recap&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://soundsoftware.ac.uk/swc-tuebingen-recap#comments</comments>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/37">mercurial</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/20">python</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/25">software carpentry</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/39">swc</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/40">teaching</category>
+ <pubDate>Thu, 31 Jan 2013 11:32:09 +0000</pubDate>
+ <dc:creator>luisf</dc:creator>
+ <guid isPermaLink="false">124 at http://soundsoftware.ac.uk</guid>
+</item>
+<item>
+ <title>Tools and Facilities</title>
+ <link>http://soundsoftware.ac.uk/tools</link>
+ <description>&lt;p&gt;&lt;a href=&quot;https://code.soundsoftware.ac.uk&quot; target=&quot;_blank&quot;&gt;&lt;img alt=&quot;code.soundsoftware.ac.uk&quot; src = &quot;/sites/soundsoftware.ac.uk/files/images/codessw.png&quot; style=&quot;float: left; padding: 4px; margin: 0 7px 2px 0; display: inline;&quot; width=&quot;200px&quot; /&gt;&lt;/a&gt;
+&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://code.soundsoftware.ac.uk&quot; target=&quot;_blank&quot;&gt;code.soundsoftware.ac.uk&lt;/a&gt;&lt;/strong&gt; is a code-repository and project management site for software development carried out in the UK academic audio and music research field.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://soundsoftware.ac.uk/tools&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/33">code</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/35">easymercurial</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/37">mercurial</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/34">repository</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/4">Reproducible research</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/36">tdd</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/2">Version control</category>
+ <pubDate>Thu, 18 Oct 2012 09:44:25 +0000</pubDate>
+ <dc:creator>luisf</dc:creator>
+ <guid isPermaLink="false">118 at http://soundsoftware.ac.uk</guid>
+</item>
+</channel>
+</rss>

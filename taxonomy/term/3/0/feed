@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://soundsoftware.ac.uk"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Sound Software .ac.uk - Outreach</title>
+ <link>http://soundsoftware.ac.uk/taxonomy/term/3/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Software Carpentry workshops in April and May</title>
+ <link>http://soundsoftware.ac.uk/april-and-may-software-carpentry-workshops</link>
+ <description>&lt;p&gt;We are helping the &lt;a href=&quot;http://software-carpentry.org/&quot;&gt;Software Carpentry&lt;/a&gt; project to run two workshops this year in the UK, one at the end of April at UCL in London, and the other in May in Newcastle. These are highly recommended for researchers interested in improving their software skills.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://soundsoftware.ac.uk/april-and-may-software-carpentry-workshops&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://soundsoftware.ac.uk/april-and-may-software-carpentry-workshops#comments</comments>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/3">Outreach</category>
+ <pubDate>Tue, 13 Mar 2012 13:07:03 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">80 at http://soundsoftware.ac.uk</guid>
+</item>
+<item>
+ <title>Visits to Research Groups</title>
+ <link>http://soundsoftware.ac.uk/visits</link>
+ <description>&lt;p&gt;We&#039;re going on a series of visits to audio and music research groups around the UK, to find out more about the way researchers are working with software and how we can help.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://soundsoftware.ac.uk/visits&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://soundsoftware.ac.uk/visits#comments</comments>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/3">Outreach</category>
+ <pubDate>Fri, 25 Nov 2011 11:47:57 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">47 at http://soundsoftware.ac.uk</guid>
+</item>
+<item>
+ <title>Videos from the Autumn School!</title>
+ <link>http://soundsoftware.ac.uk/autumnschool2010video</link>
+ <description>&lt;p&gt;Video footage from the Software Carpentry and SoundSoftware.ac.uk UK Autumn School 2010 is now available via YouTube.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://soundsoftware.ac.uk/autumnschool2010video&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://soundsoftware.ac.uk/autumnschool2010video#comments</comments>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/5">Media resources</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/3">Outreach</category>
+ <pubDate>Mon, 21 Mar 2011 13:33:46 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">38 at http://soundsoftware.ac.uk</guid>
+</item>
+<item>
+ <title>UK Autumn School 2010: an enjoyable and educational experience</title>
+ <link>http://soundsoftware.ac.uk/autumnschool2010review</link>
+ <description>&lt;p&gt;The Software Carpentry and SoundSoftware.ac.uk UK Autumn School 2010 presented by Dr. Greg Wilson was an invigorating and inspiring educational event.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://soundsoftware.ac.uk/autumnschool2010review&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://soundsoftware.ac.uk/autumnschool2010review#comments</comments>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/3">Outreach</category>
+ <pubDate>Mon, 08 Nov 2010 12:59:36 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">27 at http://soundsoftware.ac.uk</guid>
+</item>
+<item>
+ <title>Who attended the 2010 Autumn School?</title>
+ <link>http://soundsoftware.ac.uk/autumnschool2010attendees</link>
+ <description>&lt;p&gt;Greg asked everyone - including the SoundSoftware.ac.uk organisers! - to come up with a short and snappy introduction to their research work: here are some of them.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://soundsoftware.ac.uk/autumnschool2010attendees&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/3">Outreach</category>
+ <pubDate>Fri, 05 Nov 2010 14:40:08 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">26 at http://soundsoftware.ac.uk</guid>
+</item>
+<item>
+ <title>UK Autumn School–Software Carpentry for Audio and Music Researchers</title>
+ <link>http://soundsoftware.ac.uk/autumnschool2010</link>
+ <description>&lt;p&gt;The aim of this one-week Autumn School (London, UK, 1-5 November 2010) is to train PhD students and researchers in the software development skills required to build reliable research software quickly and with a minimum of effort, and so maximize the impact of their research. &lt;/p&gt;
+&lt;p&gt;The Autumn School is presented by Dr. Greg Wilson in collaboration with SoundSoftware.ac.uk: Sustainable Software for Audio and Music Research.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://soundsoftware.ac.uk/autumnschool2010&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/3">Outreach</category>
+ <pubDate>Tue, 28 Sep 2010 13:09:39 +0000</pubDate>
+ <dc:creator>luisf</dc:creator>
+ <guid isPermaLink="false">24 at http://soundsoftware.ac.uk</guid>
+</item>
+<item>
+ <title>Music Hack Day - London 2010</title>
+ <link>http://soundsoftware.ac.uk/node/19</link>
+ <description>&lt;p&gt;At the start of September the Music Hack Day returned to London, where it all began, to explore and build the next generation of music applications.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://soundsoftware.ac.uk/node/19&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/3">Outreach</category>
+ <pubDate>Tue, 07 Sep 2010 08:28:10 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">19 at http://soundsoftware.ac.uk</guid>
+</item>
+</channel>
+</rss>

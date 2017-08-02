@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://soundsoftware.ac.uk"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Sound Software .ac.uk - tutorial</title>
+ <link>http://soundsoftware.ac.uk/taxonomy/term/24/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Printable Handouts and Guides</title>
+ <link>http://soundsoftware.ac.uk/handouts-guides</link>
+ <description>&lt;p&gt;In this page you can find the printable resources associated with the different tutorials and workshops we&#039;ve organised so far. This page will keep being updated as we organise more events, so watch this space!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://soundsoftware.ac.uk/handouts-guides&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/31">handouts</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/30">open access</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/4">Reproducible research</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/15">software</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/25">software carpentry</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/8">Software testing</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/18">sustainability</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/24">tutorial</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/32">unit testing</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/9">workshop</category>
+ <pubDate>Tue, 16 Oct 2012 14:12:51 +0000</pubDate>
+ <dc:creator>luisf</dc:creator>
+ <guid isPermaLink="false">117 at http://soundsoftware.ac.uk</guid>
+</item>
+<item>
+ <title>ISMIR 2012 Tutorial</title>
+ <link>http://soundsoftware.ac.uk/ismir-2012-tutorial</link>
+ <description>&lt;p&gt;We&#039;ll be conducting a tutorial at this year&#039;s edition of the International Society for Music Information Retrieval Conference - &lt;a href=&quot;http://ismir2012.ismir.net&quot; target=&#039;_blank&#039;&gt;ISMIR 2012&lt;/a&gt; - which will take place in Porto, Portugal, October 8th-12th, 2012.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://soundsoftware.ac.uk/ismir-2012-tutorial&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://soundsoftware.ac.uk/ismir-2012-tutorial#comments</comments>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/29">ismir</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/4">Reproducible research</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/15">software</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/24">tutorial</category>
+ <pubDate>Fri, 05 Oct 2012 16:42:15 +0000</pubDate>
+ <dc:creator>luisf</dc:creator>
+ <guid isPermaLink="false">116 at http://soundsoftware.ac.uk</guid>
+</item>
+<item>
+ <title>From York to Porto, with a quick stop in London</title>
+ <link>http://soundsoftware.ac.uk/york12-wrapup</link>
+ <description>&lt;p&gt;We recently spent a week in York, where we organised a software bootcamp and delivered tutorial at this year&#039;s edition of the International Conference on Digital Audio Effects &lt;a href=&quot;http://dafx12.york.ac.uk&quot; href=&quot;_blank&quot;&gt;DAFx 2012&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://soundsoftware.ac.uk/york12-wrapup&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://soundsoftware.ac.uk/york12-wrapup#comments</comments>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/28">bootcamp</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/27">dafx</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/25">software carpentry</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/24">tutorial</category>
+ <pubDate>Thu, 27 Sep 2012 11:06:51 +0000</pubDate>
+ <dc:creator>luisf</dc:creator>
+ <guid isPermaLink="false">115 at http://soundsoftware.ac.uk</guid>
+</item>
+<item>
+ <title>Packing up for DAFx</title>
+ <link>http://soundsoftware.ac.uk/packing-up-for-dafx</link>
+ <description>&lt;p&gt;The SoundSoftware team is about to head head to York, where we&#039;ll be participating in this year&#039;s edition of the International Conference on Digital Audio Effects &lt;a href=&quot;http://dafx12.york.ac.uk&quot; href=&quot;_blank&quot;&gt;DAFx 2012&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://soundsoftware.ac.uk/packing-up-for-dafx&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://soundsoftware.ac.uk/packing-up-for-dafx#comments</comments>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/26">international conference</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/25">software carpentry</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/23">training</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/24">tutorial</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/9">workshop</category>
+ <pubDate>Mon, 10 Sep 2012 17:28:35 +0000</pubDate>
+ <dc:creator>luisf</dc:creator>
+ <guid isPermaLink="false">114 at http://soundsoftware.ac.uk</guid>
+</item>
+</channel>
+</rss>

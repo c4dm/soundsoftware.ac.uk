@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://soundsoftware.ac.uk"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Sound Software .ac.uk - ssww2012</title>
+ <link>http://soundsoftware.ac.uk/taxonomy/term/21/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>SoundSoftware 2012 Workshop: resources online</title>
+ <link>http://soundsoftware.ac.uk/ssww2012news-resources</link>
+ <description>&lt;div class=&quot;image-attach-teaser image-attach-node-108&quot; style=&quot;width: 94px;&quot;&gt;&lt;a href=&quot;/ssww2012news-resources&quot;&gt;&lt;img src=&quot;http://soundsoftware.ac.uk/sites/soundsoftware.ac.uk/files/images/ssww2012_DavidDeRoure.thumbnail.png&quot; alt=&quot;David De Roure&amp;#039;s Talk at SoundSoftware 2012 Workshop&quot; title=&quot;David De Roure&amp;#039;s Talk at SoundSoftware 2012 Workshop&quot;  class=&quot;image image-thumbnail &quot; width=&quot;94&quot; height=&quot;100&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;The video recordings and other resources from the SoundSoftware 2012 Workshop on Software and Data for Audio and Music Research are now online.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://soundsoftware.ac.uk/ssww2012news-resources&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://soundsoftware.ac.uk/ssww2012news-resources#comments</comments>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/4">Reproducible research</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/15">software</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/21">ssww2012</category>
+ <enclosure url="http://soundsoftware.ac.uk/image/view/108/preview" length="285165" type="image/png" />
+ <pubDate>Thu, 12 Jul 2012 17:04:08 +0000</pubDate>
+ <dc:creator>luisf</dc:creator>
+ <guid isPermaLink="false">109 at http://soundsoftware.ac.uk</guid>
+</item>
+</channel>
+</rss>

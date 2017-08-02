@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://soundsoftware.ac.uk"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Sound Software .ac.uk - Licences</title>
+ <link>http://soundsoftware.ac.uk/taxonomy/term/6/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Open source software licences: Other options</title>
+ <link>http://soundsoftware.ac.uk/open-source-software-licences-other</link>
+ <description>&lt;p&gt;Notes about public domain, academic use only, and other licence options.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://soundsoftware.ac.uk/open-source-software-licences-other&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://soundsoftware.ac.uk/open-source-software-licences-other#comments</comments>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/6">Licences</category>
+ <pubDate>Wed, 18 Jan 2012 11:04:47 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">74 at http://soundsoftware.ac.uk</guid>
+</item>
+<item>
+ <title>Open source software licences: LGPL</title>
+ <link>http://soundsoftware.ac.uk/open-source-software-licences-lgpl</link>
+ <description>&lt;p&gt;An explanation of the GNU Lesser General Public Licence, with advantages, disadvantages, and how to apply it to your code.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://soundsoftware.ac.uk/open-source-software-licences-lgpl&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://soundsoftware.ac.uk/open-source-software-licences-lgpl#comments</comments>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/6">Licences</category>
+ <pubDate>Wed, 18 Jan 2012 11:02:19 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">73 at http://soundsoftware.ac.uk</guid>
+</item>
+<item>
+ <title>Open source software licences: GPL</title>
+ <link>http://soundsoftware.ac.uk/open-source-software-licences-gpl</link>
+ <description>&lt;p&gt;An explanation of the GNU General Public Licence, with advantages, disadvantages, and how to apply it to your code.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://soundsoftware.ac.uk/open-source-software-licences-gpl&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://soundsoftware.ac.uk/open-source-software-licences-gpl#comments</comments>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/6">Licences</category>
+ <pubDate>Wed, 18 Jan 2012 11:01:16 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">72 at http://soundsoftware.ac.uk</guid>
+</item>
+<item>
+ <title>Open source software licences: BSD-style</title>
+ <link>http://soundsoftware.ac.uk/open-source-software-licences-bsd-style</link>
+ <description>&lt;p&gt;An explanation of &quot;BSD-style&quot; software licences, with advantages, disadvantages, and how to apply them to your code.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://soundsoftware.ac.uk/open-source-software-licences-bsd-style&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://soundsoftware.ac.uk/open-source-software-licences-bsd-style#comments</comments>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/6">Licences</category>
+ <pubDate>Wed, 18 Jan 2012 10:59:53 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">71 at http://soundsoftware.ac.uk</guid>
+</item>
+<item>
+ <title>Open source software licences explained</title>
+ <link>http://soundsoftware.ac.uk/open-source-software-licences-explained</link>
+ <description>&lt;p&gt;If you plan to publish some software code, you need to include a licence so that other people will know what they can do with it.  This article explains how to do it.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://soundsoftware.ac.uk/open-source-software-licences-explained&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://soundsoftware.ac.uk/open-source-software-licences-explained#comments</comments>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/6">Licences</category>
+ <pubDate>Wed, 18 Jan 2012 10:58:24 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">70 at http://soundsoftware.ac.uk</guid>
+</item>
+<item>
+ <title>New tools to help understand CC licences</title>
+ <link>http://soundsoftware.ac.uk/node/41</link>
+ <description>&lt;p&gt;JISC announce two new online wizards to assist in navigating compatibility issues that arise when trying to blend material under different Creative Commons licences.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://soundsoftware.ac.uk/node/41&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://soundsoftware.ac.uk/node/41#comments</comments>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/6">Licences</category>
+ <pubDate>Fri, 24 Jun 2011 09:14:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">41 at http://soundsoftware.ac.uk</guid>
+</item>
+</channel>
+</rss>

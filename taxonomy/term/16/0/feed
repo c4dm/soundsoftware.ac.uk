@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://soundsoftware.ac.uk"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Sound Software .ac.uk - data</title>
+ <link>http://soundsoftware.ac.uk/taxonomy/term/16/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>SoundSoftware 2012 Workshop: programme available</title>
+ <link>http://soundsoftware.ac.uk/soundsoftware2012-programme-available</link>
+ <description>&lt;p&gt;We&#039;re happy to announce that the full programme for the SoundSoftware 2012 Workshop is now available.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://soundsoftware.ac.uk/soundsoftware2012-programme-available&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://soundsoftware.ac.uk/soundsoftware2012-programme-available#comments</comments>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/11">audio</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/16">data</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/12">music</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/4">Reproducible research</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/15">software</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/10">soundsoftware</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/19">worksho</category>
+ <pubDate>Fri, 25 May 2012 10:50:43 +0000</pubDate>
+ <dc:creator>luisf</dc:creator>
+ <guid isPermaLink="false">98 at http://soundsoftware.ac.uk</guid>
+</item>
+</channel>
+</rss>

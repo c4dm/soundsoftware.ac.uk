@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://soundsoftware.ac.uk"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Sound Software .ac.uk - open access</title>
+ <link>http://soundsoftware.ac.uk/taxonomy/term/30/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>SoundSoftware.ac.uk Prizes for Reproducibility in Audio and Music Research</title>
+ <link>http://soundsoftware.ac.uk/rr-prize-apr2013</link>
+ <description>&lt;p&gt;To promote the development and release of sustainable and reusable software associated with published research, the SoundSoftware  project will be awarding a number of “Reproducible Research Prizes”.&lt;/p&gt;
+&lt;p&gt;If you have published your software or datasets as part of your audio or music research output, so that other UK researchers can reproduce your results, you could win a prize!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://soundsoftware.ac.uk/rr-prize-apr2013&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/43">data management</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/30">open access</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/42">open source</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/41">replicability</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/46">Reproducible research prizes</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/18">sustainability</category>
+ <pubDate>Thu, 18 Apr 2013 10:46:28 +0000</pubDate>
+ <dc:creator>luisf</dc:creator>
+ <guid isPermaLink="false">126 at http://soundsoftware.ac.uk</guid>
+</item>
+<item>
+ <title>Printable Handouts and Guides</title>
+ <link>http://soundsoftware.ac.uk/handouts-guides</link>
+ <description>&lt;p&gt;In this page you can find the printable resources associated with the different tutorials and workshops we&#039;ve organised so far. This page will keep being updated as we organise more events, so watch this space!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://soundsoftware.ac.uk/handouts-guides&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/31">handouts</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/30">open access</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/4">Reproducible research</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/15">software</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/25">software carpentry</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/8">Software testing</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/18">sustainability</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/24">tutorial</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/32">unit testing</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/9">workshop</category>
+ <pubDate>Tue, 16 Oct 2012 14:12:51 +0000</pubDate>
+ <dc:creator>luisf</dc:creator>
+ <guid isPermaLink="false">117 at http://soundsoftware.ac.uk</guid>
+</item>
+</channel>
+</rss>

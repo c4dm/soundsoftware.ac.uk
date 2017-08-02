@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://soundsoftware.ac.uk"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Sound Software .ac.uk - reproducible research prize</title>
+ <link>http://soundsoftware.ac.uk/taxonomy/term/55/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>SoundSoftware.ac.uk Prizes for Reproducibility in Semantic Audio Research</title>
+ <link>http://soundsoftware.ac.uk/rr-prize-semantic-audio</link>
+ <description>&lt;p&gt;The SoundSoftware Project, in collaboration with the &lt;a href=&quot;http://www.aes.org/conferences/53/&quot; target=&quot;blank&quot;&gt;Audio Engineering Society&#039;s 53rd Conference on Semantic Audio&lt;/a&gt;, will be sponsoring a Prize for Reproducibility in the field of Semantic Audio published at this conference.&lt;/p&gt;
+&lt;p&gt;This edition of the Reproducible Research prizes follows our earlier &lt;a href=&quot;/rr-prize-june2013&quot;&gt;SoundSoftware.ac.uk Prizes for Reproducibility in Audio and Music Research&lt;/a&gt;.  &lt;/p&gt;
+&lt;h2&gt;News and important dates&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;9 August- Initial announcement&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;a href=&quot;http://soundsoftware.ac.uk/rr-prize-semantic-audio&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/4">Reproducible research</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/55">reproducible research prize</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/52">semantic audio</category>
+ <pubDate>Tue, 03 Sep 2013 10:50:27 +0000</pubDate>
+ <dc:creator>luisf</dc:creator>
+ <guid isPermaLink="false">139 at http://soundsoftware.ac.uk</guid>
+</item>
+</channel>
+</rss>

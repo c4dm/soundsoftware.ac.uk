@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://soundsoftware.ac.uk"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Sound Software .ac.uk - soundsoftware</title>
+ <link>http://soundsoftware.ac.uk/taxonomy/term/10/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Announcing the SoundSoftware.ac.uk Prizes for Reproducibility in Audio and Music Research</title>
+ <link>http://soundsoftware.ac.uk/news-rr-prize</link>
+ <description>&lt;p&gt;We&#039;re proud to announce the SoundSoftware.ac.uk Prizes for Reproducibility in Audio and Music Research. These prizes&#039; objective is to promote the development and release of sustainable and reusable software associated with published research.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://soundsoftware.ac.uk/news-rr-prize&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://soundsoftware.ac.uk/news-rr-prize#comments</comments>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/47">prizes</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/14">reproducibility</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/10">soundsoftware</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/18">sustainability</category>
+ <pubDate>Tue, 23 Apr 2013 12:55:23 +0000</pubDate>
+ <dc:creator>luisf</dc:creator>
+ <guid isPermaLink="false">128 at http://soundsoftware.ac.uk</guid>
+</item>
+<item>
+ <title>AES Rome 2013: Software Techniques for Good Practice in Audio and Music Research</title>
+ <link>http://soundsoftware.ac.uk/aes-rome2013-paper</link>
+ <description>&lt;p&gt;Our paper on &lt;em&gt; Software Techniques for Good Practice in Audio and Music Research&lt;/em&gt; has been accepted for the &lt;a href=&quot;http://www.aes.org/events/134/&quot;&gt;134th International Audio Engineering Convention&lt;/a&gt;, which will take place in Rome, 4-7 May 2013.&lt;/p&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://soundsoftware.ac.uk/aes-rome2013-paper&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/45">AES</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/44">paper</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/15">software</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/10">soundsoftware</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/18">sustainability</category>
+ <pubDate>Fri, 19 Apr 2013 12:48:02 +0000</pubDate>
+ <dc:creator>luisf</dc:creator>
+ <guid isPermaLink="false">127 at http://soundsoftware.ac.uk</guid>
+</item>
+<item>
+ <title>SoundSoftware 2012 Workshop: registration deadline extended</title>
+ <link>http://soundsoftware.ac.uk/soundsoftware2012-deadline-extended</link>
+ <description>&lt;p&gt;The registration deadline for the SoundSoftware 2012 Workshop on Software and Data for Audio and Music Research has just been extended until the 11th of June.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://soundsoftware.ac.uk/soundsoftware2012-deadline-extended&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://soundsoftware.ac.uk/soundsoftware2012-deadline-extended#comments</comments>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/10">soundsoftware</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/9">workshop</category>
+ <pubDate>Thu, 31 May 2012 13:40:25 +0000</pubDate>
+ <dc:creator>luisf</dc:creator>
+ <guid isPermaLink="false">100 at http://soundsoftware.ac.uk</guid>
+</item>
+<item>
+ <title>SoundSoftware 2012 Workshop: programme available</title>
+ <link>http://soundsoftware.ac.uk/soundsoftware2012-programme-available</link>
+ <description>&lt;p&gt;We&#039;re happy to announce that the full programme for the SoundSoftware 2012 Workshop is now available.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://soundsoftware.ac.uk/soundsoftware2012-programme-available&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://soundsoftware.ac.uk/soundsoftware2012-programme-available#comments</comments>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/11">audio</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/16">data</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/12">music</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/4">Reproducible research</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/15">software</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/10">soundsoftware</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/19">worksho</category>
+ <pubDate>Fri, 25 May 2012 10:50:43 +0000</pubDate>
+ <dc:creator>luisf</dc:creator>
+ <guid isPermaLink="false">98 at http://soundsoftware.ac.uk</guid>
+</item>
+<item>
+ <title>SoundSoftware 2012: Workshop on Software and Data for Audio and Music Research</title>
+ <link>http://soundsoftware.ac.uk/soundsoftware2012-abstracts</link>
+ <description>&lt;p&gt;The first one-day Workshop on Software and Data for Audio and Music Research was held on Queen Mary University of London on the 18th of June 2012.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Note: This workshop is happening again in 2013&lt;/b&gt; &amp;mdash; &lt;a href=&quot;/soundsoftware2013&quot;&gt;details of the 2013 event are here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Please read more about the workshop &lt;a href=&quot;http://soundsoftware.ac.uk/ssww2012-post&quot; target=&quot;_blank&quot;/&gt;here&lt;/a&gt; or find the original workshop programme &lt;a href=&quot;/soundsoftware2012-details&quot; target=&quot;_blank&quot;/&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://soundsoftware.ac.uk/soundsoftware2012-abstracts&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/11">audio</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/12">music</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/14">reproducibility</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/15">software</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/10">soundsoftware</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/18">sustainability</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/9">workshop</category>
+ <pubDate>Wed, 23 May 2012 16:22:23 +0000</pubDate>
+ <dc:creator>luisf</dc:creator>
+ <guid isPermaLink="false">97 at http://soundsoftware.ac.uk</guid>
+</item>
+</channel>
+</rss>

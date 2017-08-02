@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://soundsoftware.ac.uk"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Sound Software .ac.uk - Media resources</title>
+ <link>http://soundsoftware.ac.uk/taxonomy/term/5/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Two introductory EasyMercurial videos</title>
+ <link>http://soundsoftware.ac.uk/node/43</link>
+ <description>&lt;p&gt;We&#039;ve just made a couple of very short, simple videos showing the basics of using EasyMercurial.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://soundsoftware.ac.uk/node/43&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://soundsoftware.ac.uk/node/43#comments</comments>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/5">Media resources</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/2">Version control</category>
+ <pubDate>Tue, 04 Oct 2011 09:19:29 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">43 at http://soundsoftware.ac.uk</guid>
+</item>
+<item>
+ <title>Videos and Slides</title>
+ <link>http://soundsoftware.ac.uk/videos</link>
+ <description>&lt;p&gt;We regularly publish presentations and videos related to our work:&lt;/p&gt;
+&lt;h3 id=&quot;ssw14-slides&quot;&gt;SoundSoftware Workshop 2014&lt;/h3&gt;
+&lt;p&gt;Video footage from the SoundSoftware Workshop 2014 is available at the following page: &lt;a href=&quot;/soundsoftware2014&quot; target=&quot;_blank&quot;&gt;http://soundsoftware.ac.uk/soundsoftware2014&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://soundsoftware.ac.uk/videos&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/5">Media resources</category>
+ <pubDate>Mon, 21 Mar 2011 13:57:22 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">39 at http://soundsoftware.ac.uk</guid>
+</item>
+<item>
+ <title>Videos from the Autumn School!</title>
+ <link>http://soundsoftware.ac.uk/autumnschool2010video</link>
+ <description>&lt;p&gt;Video footage from the Software Carpentry and SoundSoftware.ac.uk UK Autumn School 2010 is now available via YouTube.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://soundsoftware.ac.uk/autumnschool2010video&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://soundsoftware.ac.uk/autumnschool2010video#comments</comments>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/5">Media resources</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/3">Outreach</category>
+ <pubDate>Mon, 21 Mar 2011 13:33:46 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">38 at http://soundsoftware.ac.uk</guid>
+</item>
+</channel>
+</rss>

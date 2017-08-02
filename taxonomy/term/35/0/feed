@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://soundsoftware.ac.uk"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Sound Software .ac.uk - easymercurial</title>
+ <link>http://soundsoftware.ac.uk/taxonomy/term/35/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Tools and Facilities</title>
+ <link>http://soundsoftware.ac.uk/tools</link>
+ <description>&lt;p&gt;&lt;a href=&quot;https://code.soundsoftware.ac.uk&quot; target=&quot;_blank&quot;&gt;&lt;img alt=&quot;code.soundsoftware.ac.uk&quot; src = &quot;/sites/soundsoftware.ac.uk/files/images/codessw.png&quot; style=&quot;float: left; padding: 4px; margin: 0 7px 2px 0; display: inline;&quot; width=&quot;200px&quot; /&gt;&lt;/a&gt;
+&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://code.soundsoftware.ac.uk&quot; target=&quot;_blank&quot;&gt;code.soundsoftware.ac.uk&lt;/a&gt;&lt;/strong&gt; is a code-repository and project management site for software development carried out in the UK academic audio and music research field.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://soundsoftware.ac.uk/tools&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/33">code</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/35">easymercurial</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/37">mercurial</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/34">repository</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/4">Reproducible research</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/36">tdd</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/2">Version control</category>
+ <pubDate>Thu, 18 Oct 2012 09:44:25 +0000</pubDate>
+ <dc:creator>luisf</dc:creator>
+ <guid isPermaLink="false">118 at http://soundsoftware.ac.uk</guid>
+</item>
+</channel>
+</rss>

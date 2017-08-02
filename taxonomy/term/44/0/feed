@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://soundsoftware.ac.uk"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Sound Software .ac.uk - paper</title>
+ <link>http://soundsoftware.ac.uk/taxonomy/term/44/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>AES Rome 2013: Software Techniques for Good Practice in Audio and Music Research</title>
+ <link>http://soundsoftware.ac.uk/aes-rome2013-paper</link>
+ <description>&lt;p&gt;Our paper on &lt;em&gt; Software Techniques for Good Practice in Audio and Music Research&lt;/em&gt; has been accepted for the &lt;a href=&quot;http://www.aes.org/events/134/&quot;&gt;134th International Audio Engineering Convention&lt;/a&gt;, which will take place in Rome, 4-7 May 2013.&lt;/p&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://soundsoftware.ac.uk/aes-rome2013-paper&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/45">AES</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/44">paper</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/15">software</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/10">soundsoftware</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/18">sustainability</category>
+ <pubDate>Fri, 19 Apr 2013 12:48:02 +0000</pubDate>
+ <dc:creator>luisf</dc:creator>
+ <guid isPermaLink="false">127 at http://soundsoftware.ac.uk</guid>
+</item>
+</channel>
+</rss>

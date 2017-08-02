@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://soundsoftware.ac.uk"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Sound Software .ac.uk - python</title>
+ <link>http://soundsoftware.ac.uk/taxonomy/term/20/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Notes from a Software Bootcamp at Max Planck Institute</title>
+ <link>http://soundsoftware.ac.uk/swc-tuebingen-recap</link>
+ <description>&lt;p&gt;On the 25 and 26th of January we helped to organise another &lt;a title=&quot;Software Carpentry&quot; href=&quot;http://software-carpentry.org/&quot; target=&quot;_blank&quot;&gt;Software Carpentry&lt;/a&gt; workshop. This workshop was held on the &lt;a title=&quot;MPI Tuebingen&quot; href=&quot;http://tuebingen.mpg.de/en/homepage.html&quot; target=&quot;_target&quot;&gt;Tuebingen Campus of the Max Planck Institute&lt;/a&gt;, Germany.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://soundsoftware.ac.uk/swc-tuebingen-recap&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://soundsoftware.ac.uk/swc-tuebingen-recap#comments</comments>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/37">mercurial</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/20">python</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/25">software carpentry</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/39">swc</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/40">teaching</category>
+ <pubDate>Thu, 31 Jan 2013 11:32:09 +0000</pubDate>
+ <dc:creator>luisf</dc:creator>
+ <guid isPermaLink="false">124 at http://soundsoftware.ac.uk</guid>
+</item>
+<item>
+ <title>Some things I have learnt about optimising Python</title>
+ <link>http://soundsoftware.ac.uk/node/111</link>
+ <description>&lt;p&gt;Dan Stowell shares some notes on how to get the more processor-intensive parts of your code running quickly in Python, so as to exploit the quick development cycle of Python without having to reimplement working code in a different language.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://soundsoftware.ac.uk/node/111&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://soundsoftware.ac.uk/node/111#comments</comments>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/22">optimisation</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/20">python</category>
+ <pubDate>Tue, 17 Jul 2012 09:55:24 +0000</pubDate>
+ <dc:creator>dan4dm</dc:creator>
+ <guid isPermaLink="false">111 at http://soundsoftware.ac.uk</guid>
+</item>
+<item>
+ <title>Software Bootcamp for Audio and Music Researchers</title>
+ <link>http://soundsoftware.ac.uk/york2012-bootcamp</link>
+ <description>&lt;p&gt;The SoundSoftware and &lt;a href=&quot;http://software-carpentry.org/&quot; target=&quot;_blank&quot;/&gt;Software Carpentry&lt;/a&gt; projects are organising a three-day bootcamp on software development, during the week preceding the &lt;a href=&quot;http://dafx12.york.ac.uk/&quot;&gt;DAFx conference&lt;/a&gt;. The bootcamp will run from the 13th to 15th of September 2012 at the University of York.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://soundsoftware.ac.uk/york2012-bootcamp&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/20">python</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/4">Reproducible research</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/13">research</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/15">software</category>
+ <pubDate>Mon, 09 Jul 2012 14:58:26 +0000</pubDate>
+ <dc:creator>luisf</dc:creator>
+ <guid isPermaLink="false">106 at http://soundsoftware.ac.uk</guid>
+</item>
+</channel>
+</rss>

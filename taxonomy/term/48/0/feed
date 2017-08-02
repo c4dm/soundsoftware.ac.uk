@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://soundsoftware.ac.uk"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Sound Software .ac.uk - code review</title>
+ <link>http://soundsoftware.ac.uk/taxonomy/term/48/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Article on software development techniques to be presented in AES Rome</title>
+ <link>http://soundsoftware.ac.uk/aes-rome2013-news</link>
+ <description>&lt;p&gt;We&#039;ll be presenting our most recent paper &amp;mdash; &lt;em&gt;Software Techniques for Good Practice in Audio and Music Research&lt;/em&gt; &amp;mdash; at the &lt;a href=&quot;http://www.aes.org/events/134/&quot; target=&quot;_blank&quot;&gt;134th International Audio Engineering Society Convention&lt;/a&gt; which takes place in Rome, May 4-7.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://soundsoftware.ac.uk/aes-rome2013-news&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://soundsoftware.ac.uk/aes-rome2013-news#comments</comments>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/45">AES</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/49">audio engineering society</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/48">code review</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/50">rome</category>
+ <pubDate>Fri, 26 Apr 2013 14:45:34 +0000</pubDate>
+ <dc:creator>luisf</dc:creator>
+ <guid isPermaLink="false">129 at http://soundsoftware.ac.uk</guid>
+</item>
+</channel>
+</rss>

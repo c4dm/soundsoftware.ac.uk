@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://soundsoftware.ac.uk"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Sound Software .ac.uk - ismir</title>
+ <link>http://soundsoftware.ac.uk/taxonomy/term/29/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>ISMIR 2012 Tutorial</title>
+ <link>http://soundsoftware.ac.uk/ismir-2012-tutorial</link>
+ <description>&lt;p&gt;We&#039;ll be conducting a tutorial at this year&#039;s edition of the International Society for Music Information Retrieval Conference - &lt;a href=&quot;http://ismir2012.ismir.net&quot; target=&#039;_blank&#039;&gt;ISMIR 2012&lt;/a&gt; - which will take place in Porto, Portugal, October 8th-12th, 2012.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://soundsoftware.ac.uk/ismir-2012-tutorial&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://soundsoftware.ac.uk/ismir-2012-tutorial#comments</comments>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/29">ismir</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/4">Reproducible research</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/15">software</category>
+ <category domain="http://soundsoftware.ac.uk/taxonomy/term/24">tutorial</category>
+ <pubDate>Fri, 05 Oct 2012 16:42:15 +0000</pubDate>
+ <dc:creator>luisf</dc:creator>
+ <guid isPermaLink="false">116 at http://soundsoftware.ac.uk</guid>
+</item>
+</channel>
+</rss>
